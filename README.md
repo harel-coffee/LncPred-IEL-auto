@@ -19,5 +19,5 @@ Now we go back to the LncPred-IEL main directory
 ```shell
 # # This step should run under python2 enviroment
 # the args(positive_feature and negative_feature) can be any one of the feature
-python FindOptimalIterationRound.py positive_feature negative_feature
+python FindOptimalFeatureSubset.py positive_feature negative_feature
 ```
